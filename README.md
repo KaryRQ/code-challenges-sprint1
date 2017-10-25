@@ -11,4 +11,7 @@ Si hay empate, debe devolver la primera palabra en la lista de parámetros.
 4.Comparar si la longitud de la segunda palabra es menor la longitud de la primera palabra y la longitud de la tecera palabra
 5.Comparar si la longitud de la tercera palabra es menor la longitud de la primera y la segunda palabra
 6.Esta comparación la haremos con if y else if anidados
-7.Comparar
+7.Comparar si la longitud da la primerra palabra es igual a la longitud de la segunda palabra o es igual a la longitud de la tercera palabra y si esto resulta verdadero regresar
+
+![diagrama-de-flujo](http://subefotos.com/ver/?b820e514e600dc7ea74fc65b2dd13d7eo.png
+)
